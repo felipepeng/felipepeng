@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peng
 - 👀 I’m interested in videogames, anime, cartoons and coding
-- 🌱 I’m currently learning the basics of linux and more of Java
+- 🌱 I’m always trying to learn new things 
 
 
 <!---
