@@ -30,15 +30,6 @@ felipe@github:~$ ls ./stack
 </p>
 
 ```bash
-felipe@github:~$ ./stats --user felipepeng
-```
-
-<div align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
-</div>
-
-```bash
 felipe@github:~$ ./snake --eat contributions
 ```
 
