@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estat&#237;sticas do GitHub de Felipe Barreto Cortes, Rank: C</title>
-        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 157, Total de PRs: 6, Total de Issues: 0, Contribuiu para (ano passado): 2</desc>
+        <desc id="descId">Total de estrelas: 0, Total de Commits  (Ano passado) : 157, Total de PRs: 6, Total de Issues: 0, Contribuiu para (ano passado): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="274.01"
         y="12.5"
         data-testid="contribs"
-      >2</text>
+      >1</text>
     </g>
   </g>
     </svg>
